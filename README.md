@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a software developer and data scientist passio
 - [stac-fastapi-mongo](https://github.com/Healy-Hyperspatial/stac-fastapi-mongo): Mongodb backend for stac-fastapi built on the stac-fastapi-elasticsearch core api library.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/jonathan-d-healy/)
+- [![LinkedIn](https://img.shields.io/badge/-jonhealy1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-d-healy/)](https://www.linkedin.com/in/jonathan-d-healy/)
 - [Twitter](https://x.com/jonhealy111)
 - [Email](mailto:@jonathan.d.healy@gmail.com)
 
