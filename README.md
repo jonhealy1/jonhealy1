@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonathan Healy! 👋
 
-💻 Software Engineer | 🧠 Data Scientist | 🌍 Opensource Contributor | 🌐 Geospatial
+💻 Software Engineer | 🧠 Data Scientist | 🌍 Opensource Contributor | 🌐 Geospatial Enthusiast
 
 Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning.
 
