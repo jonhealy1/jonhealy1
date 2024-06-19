@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a software developer and data scientist passio
 - [Twitter](https://x.com/jonhealy111)
 
 📧 Email: jonathan.d.healy@gmail.com   
-🌍 Website: https://jonhealy1.github.io
+   
+🌍 [Website](https://jonhealy1.github.io)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonhealy1&show_icons=true)
 
