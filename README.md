@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning.
 
-- 🌱 I’m currently learning DuckDB, WASM, React
+- 🌱 I’m currently learning React, Tailwind CSS
 - 👯 I’m looking to collaborate on anything interesting
    
 #### 🛠️ My Skills
