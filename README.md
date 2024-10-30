@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning.
 
-- 🌱 I’m currently learning React, Tailwind CSS, Solidity
+- 🌱 I’m currently learning React, Solidity
 - 👯 I’m looking to collaborate on anything interesting
    
 #### 🛠️ My Skills
