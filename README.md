@@ -2,7 +2,7 @@
 
 💻 Software Engineer | 🧠 Data Scientist | 🌍 Opensource Contributor | 🌐 Geospatial Enthusiast | ⚡ Blockchain Dev
 
-Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning.
+Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning. I presently offer consulting via my company - [**Healy-Hyperspatial**](https://github.com/Healy-Hyperspatial). Recently I have started a new project called [**stacchain**](https://github.com/stacchain), to explore the idea of enabling data integrity, provenance, and economic incentives for geospatial data via cryptography and blockchain. 
 
 - 🌱 I’m currently learning React, Solidity
 - 👯 I’m looking to collaborate on anything interesting
@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a software developer and data scientist passio
 #### 🚀 My Projects
 - [stac-fastapi-elasticsearch-opensearch](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch): Elasticsearch backend for stac-fastapi with Opensearch support.
 - [stac-fastapi-mongo](https://github.com/Healy-Hyperspatial/stac-fastapi-mongo): Mongodb backend for stac-fastapi built on the stac-fastapi-elasticsearch core api library.
+- [merkle-tree stac extension](https://github.com/stacchain/merkle-tree): This extension specifies a way to ensure metadata integrity for STAC Items, Collections, and Catalogs by encoding them in a Merkle tree via hashing.
 
 #### 🔭 My Organizations
 - [Healy-Hyperspatial](https://github.com/Healy-Hyperspatial): Next-gen geospatial consulting services.
