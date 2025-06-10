@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm a software developer and data scientist passio
 - [stac-fastapi-elasticsearch-opensearch](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch): Elasticsearch backend for stac-fastapi with Opensearch support.
 - [stac-fastapi-mongo](https://github.com/Healy-Hyperspatial/stac-fastapi-mongo): Mongodb backend for stac-fastapi built on the stac-fastapi-elasticsearch core api library.
 - [merkle-tree stac extension](https://github.com/stacchain/merkle-tree): This extension specifies a way to ensure metadata integrity for STAC Items, Collections, and Catalogs by encoding them in a Merkle tree via hashing.
+- [stac-check](https://github.com/stac-utils/stac-check): A command-line tool for validating STAC metadata, featuring geometry validation, linting, and best practice checks.
+- [stac-validator](https://github.com/stac-utils/stac-validator): A Python package for validating STAC metadata against the STAC specification and extensions
 
 #### 🔭 My Organizations
 - [Healy-Hyperspatial](https://github.com/Healy-Hyperspatial): Next-gen geospatial consulting services.
