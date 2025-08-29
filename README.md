@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a software developer and data scientist passio
 
 - 🌱 I’m currently learning Machine Learning, AI, React, Javascript
 - 👯 I’m looking to collaborate on anything interesting
-- ⚡ Check out the new stacchain website [here](https://stacchain.github.io)!
-- 🧠 I am presently working on my own personal [website](https://jonhealy1.github.io)
-- new!! [Healy Hyperspatial website](https://healy-hyperspatial.github.io)
+- ⚡ Check out the stacchain website [here](https://stacchain.github.io)!
+- 🧠 I am presently working on [stac-fastapi-duckdb](https://github.com/Healy-Hyperspatial/stac-fastapi-duckdb)
+- My personal [website](https://jonhealy1.github.io)
    
 #### 🛠️ My Skills
 - Programming Languages: Python, Go
