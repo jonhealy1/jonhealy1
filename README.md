@@ -1,53 +1,46 @@
 ## Hi there, I'm Jonathan Healy! 👋
 
-💻 Software Engineer | 🧠 Data Scientist | 🌍 Opensource Contributor | 🌐 Geospatial Enthusiast | ⚡ Blockchain Dev
+💻 **Software Engineer** | 🧠 **Data Scientist** | 🌍 **Geospatial Architect** | ⚡ **Web3 Explorer**
 
-Welcome to my GitHub profile! I'm a software developer and data scientist passionate about open source, technology, and continuous learning. I presently offer consulting via my company - [**Healy-Hyperspatial**](https://github.com/Healy-Hyperspatial). Recently I have started a new project called [**stacchain**](https://github.com/stacchain), to explore the idea of enabling data integrity, provenance, and economic incentives for geospatial data via cryptography and blockchain.  
+I architect **core infrastructure** for the world’s geospatial data. My work focuses on making massive earth observation datasets discoverable, verifiable, and production-ready through high-performance backend systems and open-source standards.
+
+### 🔭 My Focus Areas
+
+* 🌐 **[StacLabs](https://github.com/StacLabs)**: I founded StacLabs as a community-oriented incubator for advanced, production-ready geospatial utilities. Our mission is to mature experimental STAC extensions—like multi-tenant catalogs and virtualized search—into stable, standardized tools that the entire community can rely on.
+* 🚀 **[Healy-Hyperspatial](https://github.com/Healy-Hyperspatial)**: My boutique consulting firm where I help organizations architect next-gen geospatial backends, specifically optimizing STAC API implementations on Elasticsearch and OpenSearch.
+* ⛓️ **[stacchain](https://github.com/stacchain)**: An R&D project exploring the intersection of Earth Observation and Blockchain. We build tools to enable data integrity, provenance, and decentralized economic incentives for geospatial assets using Merkle trees and cryptography.
 
 
-- 🌱 I’m currently learning Machine Learning, AI, React, Javascript
-- 👯 I’m looking to collaborate on anything interesting
-- ⚡ Check out the stacchain website [here](https://stacchain.github.io)!
-- 🧠 I am presently working on [SFEOS](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch) and [SFEOS-website](https://healy-hyperspatial.github.io/sfeos-web/)
-- My personal [website](https://jonhealy1.github.io)
-   
-#### 🛠️ My Skills
-- Programming Languages: Python, Go
-- Frameworks: FastAPI, STAC, AWS, Elasticsearch, Postgres, MongoDB
-- Tools: Git, Docker, Kubernetes, Pandas, Numpy
 
-#### 🚀 My Projects
-- [stac-fastapi-elasticsearch-opensearch](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch): Elasticsearch backend for stac-fastapi with Opensearch support.
-- [stac-fastapi-mongo](https://github.com/Healy-Hyperspatial/stac-fastapi-mongo): Mongodb backend for stac-fastapi built on the stac-fastapi-elasticsearch core api library.
-- [merkle-tree stac extension](https://github.com/stacchain/merkle-tree): This extension specifies a way to ensure metadata integrity for STAC Items, Collections, and Catalogs by encoding them in a Merkle tree via hashing.
-- [stac-check](https://github.com/stac-utils/stac-check): A command-line tool for validating STAC metadata, featuring geometry validation, linting, and best practice checks.
-- [stac-validator](https://github.com/stac-utils/stac-validator): A Python package for validating STAC metadata against the STAC specification and extensions
+---
 
-#### 🔭 My Organizations
-- [Healy-Hyperspatial](https://github.com/Healy-Hyperspatial): Next-gen geospatial consulting services.
-- [stacchain](https://github.com/stacchain): Geospatial integrity and economics.
+### 🧠 Currently Working On
+* **[SFEOS](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch)**: Leading the development of the Elasticsearch/OpenSearch backend for `stac-fastapi`.
+* **Hierarchical Catalogs**: Finalizing the Multi-tenant Catalogs extension for scalable, scoped data discovery.
 
-#### 📫 How to reach me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-d-healy/)](https://www.linkedin.com/in/jonathan-d-healy/)
-- [![Bluesky](https://img.shields.io/badge/-Bluesky-%2300acee?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/jonhealy1.github.io)
+---
 
-📧 Email: jonathan.d.healy@gmail.com   
-   
-🌍 [Website](https://jonhealy1.github.io)
+### 🛠️ Skills & Toolbox
+* **Languages**: Python (Expert), Go
+* **Geospatial**: STAC Spec, GDAL/OGR, Cloud Optimized GeoTIFF (COG)
+* **Data Stores**: Elasticsearch, OpenSearch, PostgreSQL (PostGIS), MongoDB, Redis
+* **Infrastructure**: AWS, Docker, Kubernetes, GitHub Actions (CI/CD)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonhealy1&show_icons=true)
+---
 
-<!--
-**jonhealy1/jonhealy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Key Projects
+* **[stac-check](https://github.com/stac-utils/stac-check)** / **[stac-validator](https://github.com/stac-utils/stac-validator)**: The community standards for linting and validating STAC metadata.
+* **[merkle-tree stac extension](https://github.com/stacchain/merkle-tree)**: Ensuring metadata integrity through cryptographic hashing.
+* **[stac-fastapi-mongo](https://github.com/Healy-Hyperspatial/stac-fastapi-mongo)**: A high-performance MongoDB backend implementation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Collaborate
+I’m always looking to connect with folks working on open-source geospatial tech, data provenance, or high-performance search engines.
+
+* **LinkedIn**: [jonathan-d-healy](https://www.linkedin.com/in/jonathan-d-healy/)
+* **Bluesky**: [@jonhealy1.github.io](https://bsky.app/profile/jonhealy1.github.io)
+* **Website**: [jonhealy1.github.io](https://jonhealy1.github.io)
+* **Email**: [jonathan.d.healy@gmail.com](mailto:jonathan.d.healy@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonhealy1&show_icons=true&theme=radical)
