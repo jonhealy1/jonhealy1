@@ -15,6 +15,7 @@ I architect **core infrastructure** for the world’s geospatial data. My work f
 ---
 
 ### 🧠 Currently Working On
+* **[STAC-OS|RS](https://github.com/StacLabs/stac-os-rs)**: Rust port of SFEOS.
 * **[SFEOS](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch)**: Leading the development of the Elasticsearch/OpenSearch backend for `stac-fastapi`.
 * **[Hierarchical Catalogs](https://github.com/StacLabs/multi-tenant-catalogs)**: Finalizing the Multi-tenant Catalogs extension for scalable, scoped data discovery.
 
